@@ -1,0 +1,12 @@
+format-version: 1.2
+data-version: releases/2023-03-14
+ontology: parco
+property_value: http://purl.org/dc/terms/description "None" xsd:string
+property_value: http://purl.org/dc/terms/license https://creativecommons.org/licenses/unspecified
+property_value: http://purl.org/dc/terms/title "PARC Vocabulary and Ontology" xsd:string
+property_value: owl:versionInfo "2023-03-14" xsd:string
+
+[Term]
+id: PARCO:0000000
+name: root node
+
