@@ -2,7 +2,9 @@ allow_equivalents: asserted-only
 catalog_file: catalog-v001.xml
 ci:
 - github_actions
-components: null
+components:
+  products:
+    - filename: merged_parco_vocabulary.owl
 contact: null
 contributors: null
 create_obo_metadata: true

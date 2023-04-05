@@ -11,6 +11,7 @@ Prefix(dcterms:=<http://purl.org/dc/terms/>)
 
 Ontology(<http://purl.obolibrary.org/obo/parco.owl>
 
+Import(<http://purl.obolibrary.org/obo/parco/components/merged_parco_vocabulary.owl>)
 
 Annotation(dcterms:description "None")
 Annotation(dcterms:license <https://creativecommons.org/licenses/unspecified>)
